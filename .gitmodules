@@ -1,0 +1,6 @@
+[submodule "new_vae"]
+	path = new_vae
+	url = https://github.com/SashaMalysheva/Pytorch-VAE.git
+[submodule "MLP/MLP"]
+	path = MLP/MLP
+	url = https://github.com/julianweisbord/pytorch-mlp-cifar10.git
